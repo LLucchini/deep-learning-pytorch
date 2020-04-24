@@ -1,22 +1,24 @@
 
-# Deep Learning with <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch-logo" style="zoom:30%;" />
+# Deep Learning with <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="pytorch-logo" width="30%" />
+
 
 ## Author: Valerio Maggio
 
-** Senior Research Associate ** @ University of Bristol
+**Senior Research Associate** 
+
+<img src="https://logos-download.com/wp-content/uploads/2016/12/University_of_Bristol_logo.png" width="30%" />
+
 
 ![dynamic-genetics-logo](imgs/dynamic_genetics.png)
 
 
 ### Contacts:
 
-|      |      |      |
+|   ![twitter](./imgs/twitter_small.png)   |  ![linkedin](./imgs/linkedin_small.png)   | ![mail](./imgs/gmail_small.png)  |
 | ---- | ---- | ---- |
-|   ![twitter](./imgs/twitter_small.png) [@leriomaggio](http://twitter.com/leriomaggio)   |    ![linkedin](./imgs/linkedin_small.png) [+ValerioMaggio](http://it.linkedin.com/in/valeriomaggio)    |  ![mail](./imgs/gmail_small.png) [valerio.maggio@bristol.ac.uk]()     |
+| [@leriomaggio](http://twitter.com/leriomaggio)   |    [ValerioMaggio](http://it.linkedin.com/in/valeriomaggio)    |  [valerio.maggio@bristol.ac.uk]()     |
 
----
-
-## Clone the repository
+#### Clone the repository
 
 ```shell
 git clone https://github.com/leriomaggio/deep-learning-pytorch.git
