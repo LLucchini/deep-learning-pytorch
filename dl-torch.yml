@@ -1,0 +1,11 @@
+name: dl-torch
+channels:
+  - defaults
+  - pytorch
+dependencies:
+  - bokeh
+  - matplotlib
+  - numpy
+  - pytorch
+  - scikit-learn
+  - torchvision
