@@ -7,7 +7,10 @@
 **Senior Research Associate** 
 
 <img src="https://logos-download.com/wp-content/uploads/2016/12/University_of_Bristol_logo.png" width="30%" alt="University of Bristol" /> 
-<img src="./imgs/dynamic_genetics.png" width="30%" alt="Dynamic Genetics" />
+
+<a href="http://dynamicgenetics.org" title="Dynamic Genetics" target="_blank">
+    <img src="./imgs/dynamic_genetics.png" width="30%" alt="Dynamic Genetics" />
+</a>
 
 ### Contacts:
 
