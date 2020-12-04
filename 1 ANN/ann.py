@@ -183,7 +183,7 @@ class MLP:
 
         return self.ao[:]
 
-    def train(self, patterns, iterations=1000, N=0.5, M=0.1):
+    def train(self, patterns, iterations=1000, N=0.5, M=0.1, printing=False):
         # N: learning rate
         # M: momentum factor
         patterns = list(patterns)
@@ -194,9 +194,11 @@ class MLP:
                 targets = p[1]
                 self.activate(inputs)
                 error += self.backPropagate([targets], N, M)
-            if i % 5 == 0:
+            
+            if (i % 5 == 0)&(printing==True):
                 print('error in interation %d : %-.5f' % (i, error))
-            print('Final training error: %-.5f' % error)
+            if (printing==True):
+                print('Final training error: %-.5f' % error)
 
 
 # -------------------
